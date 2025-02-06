@@ -1,14 +1,17 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "are u sure",
+    "like super sure",
+    "like 100% sure",
+    "pookie pls what is ts",
+    "PLEEEEEEEEJ",
+    "if u say no i will not baat to u.",
+    "okay ill tell oreo not to talk to u too",
+    "i'll be so so sad :(",
+    "phine i will stop asking",
+    "HAH u funny jit imma keep asking till u say yes",
+    "what other huzz asked u first lil bro",
+    "js say u hate me atp",
+    "so you're sure",
 ];
 
 let messageIndex = 0;
